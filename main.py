@@ -14,7 +14,7 @@ import csv
 
 
 
-PATH = "C:/Users/760006553/OneDrive - Genpact/Code Tests/Python Courses/Web_Automation/drivers/msedge/msedgedriver.exe"
+PATH = "D:/Documents/Code/Python/python_web_automation/drivers/msedge/msedgedriver.exe"
 driver = webdriver.Edge(executable_path=PATH)
 driver.get("https://www.empleosmaquila.com/listaofertas.aspx")
 jobList = []

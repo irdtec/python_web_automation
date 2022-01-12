@@ -1,0 +1,4 @@
+#Ignore folders
+Lib/
+Scripts/
+pyvenv.cfg
